@@ -1,0 +1,14 @@
+/Users/luislugo/Documents/C#/Microsoft Learning/Adicion de logica a aplicaciones de consola/Capitulo 7/final-test-while-do-while/bin/Debug/net8.0/final-test-while-do-while
+/Users/luislugo/Documents/C#/Microsoft Learning/Adicion de logica a aplicaciones de consola/Capitulo 7/final-test-while-do-while/bin/Debug/net8.0/final-test-while-do-while.deps.json
+/Users/luislugo/Documents/C#/Microsoft Learning/Adicion de logica a aplicaciones de consola/Capitulo 7/final-test-while-do-while/bin/Debug/net8.0/final-test-while-do-while.runtimeconfig.json
+/Users/luislugo/Documents/C#/Microsoft Learning/Adicion de logica a aplicaciones de consola/Capitulo 7/final-test-while-do-while/bin/Debug/net8.0/final-test-while-do-while.dll
+/Users/luislugo/Documents/C#/Microsoft Learning/Adicion de logica a aplicaciones de consola/Capitulo 7/final-test-while-do-while/bin/Debug/net8.0/final-test-while-do-while.pdb
+/Users/luislugo/Documents/C#/Microsoft Learning/Adicion de logica a aplicaciones de consola/Capitulo 7/final-test-while-do-while/obj/Debug/net8.0/final-test-while-do-while.GeneratedMSBuildEditorConfig.editorconfig
+/Users/luislugo/Documents/C#/Microsoft Learning/Adicion de logica a aplicaciones de consola/Capitulo 7/final-test-while-do-while/obj/Debug/net8.0/final-test-while-do-while.AssemblyInfoInputs.cache
+/Users/luislugo/Documents/C#/Microsoft Learning/Adicion de logica a aplicaciones de consola/Capitulo 7/final-test-while-do-while/obj/Debug/net8.0/final-test-while-do-while.AssemblyInfo.cs
+/Users/luislugo/Documents/C#/Microsoft Learning/Adicion de logica a aplicaciones de consola/Capitulo 7/final-test-while-do-while/obj/Debug/net8.0/final-test-while-do-while.csproj.CoreCompileInputs.cache
+/Users/luislugo/Documents/C#/Microsoft Learning/Adicion de logica a aplicaciones de consola/Capitulo 7/final-test-while-do-while/obj/Debug/net8.0/final-test-while-do-while.dll
+/Users/luislugo/Documents/C#/Microsoft Learning/Adicion de logica a aplicaciones de consola/Capitulo 7/final-test-while-do-while/obj/Debug/net8.0/refint/final-test-while-do-while.dll
+/Users/luislugo/Documents/C#/Microsoft Learning/Adicion de logica a aplicaciones de consola/Capitulo 7/final-test-while-do-while/obj/Debug/net8.0/final-test-while-do-while.pdb
+/Users/luislugo/Documents/C#/Microsoft Learning/Adicion de logica a aplicaciones de consola/Capitulo 7/final-test-while-do-while/obj/Debug/net8.0/final-test-while-do-while.genruntimeconfig.cache
+/Users/luislugo/Documents/C#/Microsoft Learning/Adicion de logica a aplicaciones de consola/Capitulo 7/final-test-while-do-while/obj/Debug/net8.0/ref/final-test-while-do-while.dll

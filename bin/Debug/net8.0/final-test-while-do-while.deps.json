@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "final-test-while-do-while/1.0.0": {
+        "runtime": {
+          "final-test-while-do-while.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "final-test-while-do-while/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
